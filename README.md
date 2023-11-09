@@ -1,8 +1,10 @@
-# shellcode101
+# Build Your Own Shellcode Launcher in C++ 
 
-Source code used in the video
+Source code used in the video:
 
 https://youtu.be/hWbfifU8TtA
+
+Video showcases how you can build your very own shellcode launcher program in C++ - with Python automation!
 
 # tips
 
