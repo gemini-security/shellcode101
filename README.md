@@ -1,6 +1,6 @@
 # Build Your Own Shellcode Launcher in C++ 
 
-Source code used in the video:
+Source code used in the video (scheduled to be posted on Friday 10th November 10:30pm SGT):
 
 https://youtu.be/hWbfifU8TtA
 
